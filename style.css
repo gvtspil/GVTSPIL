@@ -1,6 +1,6 @@
 @font-family{
-	font-family: Courier Prime;
-	src: url('CourierPrime-Regular.tff');
+	font-family: GeosansLight;
+	src: url('GeosansLight.ttf');
 }
 #div1{
 	color: white;
@@ -27,6 +27,21 @@
 	line-height: 5px;
 	color: rgb(208, 208, 212);
 }
+
+#gut{
+	width: 370px;
+	float: left;
+}
+#div6{
+	margin-top: 100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+#char1{
+	float: right;
+	font-size: 30px;
+	color: white;
+}
 #p2{
 	line-height: 20px;
 	font-size: 15px;
@@ -35,7 +50,7 @@ img{
 	width: 15%;
 }
 body{
-	font-family: Courier Prime;
+	font-family: GeosansLight;
 	text-align: center;
 	background-color: rgb(12, 13, 13);
 	color: rgb(120, 120, 120);
@@ -56,7 +71,7 @@ a:visited {
 }
 
 a:hover {
-  color: #869a81;
+  color: #7e8e9e;
   background-color: transparent;
 }
 
